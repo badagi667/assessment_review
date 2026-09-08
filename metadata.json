@@ -1,0 +1,6 @@
+{
+  "name": "Doselect Pre-Shipping Reviewer",
+  "description": "An expert agent for evaluating MCQ-based assessments and generating internal and client evaluation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
